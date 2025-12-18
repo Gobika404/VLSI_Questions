@@ -49,3 +49,5 @@
 
 ## 🔟 A 2-input NAND gate is used as an inverter by:
 **Answer:** Tying both inputs together
+
+## DHRUV64 is India's first fully indigenous brain. It runs at 1.0 gigahertz with 64-bit dual-core architecture. It is a fully indigenous microprocessor developed by the Centre for Development of Advanced Computing (C-DAC) under the Microprocessor Development Programme (MDP)
